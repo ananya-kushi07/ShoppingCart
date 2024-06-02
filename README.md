@@ -1,1 +1,1 @@
-A Shooping Cart Application using html,css,javascript,react.js
+https://github.com/ananya-kushi07/ShoppingCart.git
